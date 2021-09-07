@@ -13,6 +13,11 @@ export default function App() {
         name: "Punisher",
         rating: "⭐ ⭐ ⭐ ⭐ ⭐",
         yearOfRelease: "2017"
+      },
+      {
+        name: "Shadow and Bone",
+        rating: "⭐ ⭐ ⭐ ",
+        yearOfRelease: "2021"
       }
     ],
     Drama: [
@@ -25,6 +30,11 @@ export default function App() {
         name: "Dark",
         rating: "⭐ ⭐ ⭐ ⭐ ⭐",
         yearOfRelease: "2017"
+      },
+      {
+        name: "The Boys",
+        rating: "⭐ ⭐ ⭐ ⭐ ⭐",
+        yearOfRelease: "2019"
       }
     ],
     Thriller: [
@@ -35,6 +45,11 @@ export default function App() {
       },
       {
         name: "Ragnarok",
+        rating: "⭐ ⭐ ⭐ ⭐",
+        yearOfRelease: "2020"
+      },
+      {
+        name: "Locke and Key",
         rating: "⭐ ⭐ ⭐ ⭐",
         yearOfRelease: "2020"
       }
