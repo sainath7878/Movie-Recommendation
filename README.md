@@ -1,5 +1,5 @@
 # Movie-Recommendation
-A series recommendation app built using ReactJS that can display the series of different genres without reloading the whole website.
+A series recommendation app built using ReactJS that can display series of different genres without reloading the whole website.
 
 ## Technologies Used:
   1. HTML
